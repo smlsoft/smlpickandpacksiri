@@ -1,0 +1,13 @@
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+target/
+target/classes/com/smlsoft/services/globalServices.class
+target/classes/com/smlsoft/services/globalServices.class
+target/classes/report/exportFile.class
+target/classes/report/Report2.class
+target/classes/warehouses/Administration.class
